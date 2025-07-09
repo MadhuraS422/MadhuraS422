@@ -6,7 +6,7 @@
 I am a <b>Full-Stack Development Enthusiastic</b> 🌐.<br><br>
 Exploring World of AI - Technology and Networking to find automated solutions to different read-world Problems.<br><br>
 
-🔭 I’m currently working on improving my <b>Backend technology Stack.</b><br><br>
+🔭 I’m currently working on improving my <b><h4>Backend technology Stack.</h4></b><br><br>
 
 🌱 I’m currently learning <b>JavaScript</b> modules and frameworks to master.<br><br>
 👯 I’m looking to collaborate on <b> real world problems, Automation and 5G Technologies.</b><br><br>
