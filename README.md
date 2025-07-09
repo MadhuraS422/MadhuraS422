@@ -2,7 +2,7 @@
 
 # Madhura Sanjay Shirsikar.
 
-I am a Full-Stack Development Enthusiastic 🌐.
+I am a Full-Stack Development Enthusiastic 🌐.<br>
 Exploring World of Technology and Networking to Find automated solutions to different read-world Problems.
 
 🔭 I’m currently working on improving my Backend technology Stack.
