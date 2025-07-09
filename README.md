@@ -3,7 +3,7 @@
 
 # Madhura Sanjay Shirsikar.
 
-I am a <b>Full-Stack Development Enthusiastic</b> 🌐.<br><br>
+<h2 align="left">I am a <b>Full-Stack Development Enthusiastic</b> 🌐.<br><br></h2>
 Exploring World of AI - Technology and Networking to find automated solutions to different read-world Problems.<br><br>
 
 🔭 I’m currently working on improving my <b>Backend technology Stack.</b><br><br>
@@ -17,7 +17,7 @@ Exploring World of AI - Technology and Networking to find automated solutions to
 📫 How to reach me: through my linkedin profile below,<br>
 https://www.linkedin.com/in/madhura-shirsikar-2aa91a24a<br><br>
 
-👩‍💻 <b>Skills</b><br>
+👩‍💻<h2 align="left"> <b>Skills</b><br></h2>
 <h3 align="left"><b>🎫Languages</b></h3>
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;&nbsp
@@ -34,9 +34,6 @@ https://www.linkedin.com/in/madhura-shirsikar-2aa91a24a<br><br>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;&nbsp
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  &nbsp;&nbsp
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>&nbsp;&nbsp
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40" style="margin-right:10px;"/>
-  </a>&nbsp;&nbsp
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40" style="margin-right:10px;"/>
   </a>&nbsp;&nbsp
