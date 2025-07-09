@@ -16,7 +16,7 @@ https://www.linkedin.com/in/madhura-shirsikar-2aa91a24a<br><br>
 
 👩‍💻 <b>Skills</b><br>
     🎫Languages <br>
-       <span style="color:blue;">CPP C PYTHON JAVA<br>
+       <span style="color:#0366d6;">CPP</span> C PYTHON JAVA<br>
        HTML CSS JS PHP<br><br>
     🎫Frameworks & Tools <br>
       React Node.js MySQL PostgreSQL<br>
