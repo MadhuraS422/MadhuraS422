@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Madhura Sanjay Shirsikar.
+# Madhura Sanjay Shirsikar.
 
 I am a Full-Stack Development Enthusiastic 🌐.
 Exploring World of Technology and Networking to Find automated solutions to different read-world Problems.
