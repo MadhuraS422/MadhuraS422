@@ -2,7 +2,7 @@
 <h3>Exploring World of AI - Technology and Networking to find automated solutions to different read-world Problems. <br></h3>
 <h4>[Searching for projects in automation in collaboration or individual project.]</h4>
 <br>
-![https://github.com/user-attachments/assets/9a0e8a1a-726e-45bb-b999-b4789c924ff7] (https://github.com/MadhuraS422/MadhuraS422/blob/e42d300d5eca5ca8c65274977608435a546c5572/github%20readme%20image.jpg)
+![https://github.com/user-attachments/assets/9a0e8a1a-726e-45bb-b999-b4789c924ff7](https://github.com/MadhuraS422/MadhuraS422/blob/e42d300d5eca5ca8c65274977608435a546c5572/github%20readme%20image.jpg)
 <br><br>
 🔭 I’m currently working on **Litlibrary -**<br><ul> <li> **Creating comprehensive bookselling enabling users to browse, order, read online and download books.**</li><li> **Developing full-stack architecture with React frontend and Node.js backend and integrated MongoDB for efficient data management.**</li><li> **Demonstrating end -to-end product development and workflow automation.**</li></ul>
 <br><br>
