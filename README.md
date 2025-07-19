@@ -1,21 +1,20 @@
-<h1>Hi 👋,<br> I'm Madhura Sanjay Shirsikar</h1><hr>
+<h1>Hi 👋,<br>Madhura Sanjay Shirsikar</h1>
 <h3>Exploring World of AI - Technology and Networking to find automated solutions to different read-world Problems. <br> [Searching for projects in automation in collaboration or individual project.]</h3>
 
-- 🔭 I’m currently working on **Litlibrary - Created comprehensive bookselling enabling users to browse, order, read online and download books. Developed full-stack architecture with React frontend and Node.js backend and integrated MongoDB for efficient data management. Demonstrated end -to-end product development and workflow automation.**
+🔭 I’m currently working on <br> **Litlibrary - Created comprehensive bookselling enabling users to browse, order, read online and download books. Developed full-stack architecture with React frontend and Node.js backend and integrated MongoDB for efficient data management. Demonstrated end -to-end product development and workflow automation.**
 
-- 🌱 I’m currently learning **JavaScript modules and frameworks to master**
+🌱 I’m currently learning **JavaScript modules and frameworks to master**
 
-- 👯 I’m looking to collaborate on **Real-world Problems and Open-Source Collaborations and in 5G Technology.**
+👯 I’m looking to collaborate on <br> **Real-world Problems Projects/ Open-Source Collaborations and in 5G Technology Projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MadhuraS422](https://github.com/MadhuraS422)
+👨‍💻 All of my projects are available at [https://github.com/MadhuraS422](https://github.com/MadhuraS422)
 
-- 📝 I regularly write articles on Medium [https://medium.com/@madhurasshirsikar](https://medium.com/@madhurasshirsikar)
+📝 I write articles on Medium [https://medium.com/@madhurasshirsikar](https://medium.com/@madhurasshirsikar)
 
-- 📫 Reach me on my LinkedIn profile **https://www.linkedin.com/in/madhura-shirsikar-2aa91a24a**
+📫 Reach me on my LinkedIn profile **https://www.linkedin.com/in/madhura-shirsikar-2aa91a24a**
 
-- 📄 Know about my experiences [I am Intern as a Web Developer. Developed backend architecture for a client-specific electronics and hardware e-commerce platform, ensuring secure data handling and scalable performance. Developed and deployed a complete training and courses website with responsive UI/UX design, ensuring smooth navigation and optimized user experience across devices. Enhanced SEO performance for the existing websites and Implemented client required changes efficiently, demonstrated adaptability and attention to detail in fast-paced development environment.Collaborated with cross-functional teams during internship to optimize workflows and deliver client specific solutions.](I am Intern as a Web Developer. Developed backend architecture for a client-specific electronics and hardware e-commerce platform, ensuring secure data handling and scalable performance. Developed and deployed a complete training and courses website with responsive UI/UX design, ensuring smooth navigation and optimized user experience across devices. Enhanced SEO performance for the existing websites and Implemented client required changes efficiently, demonstrated adaptability and attention to detail in fast-paced development environment.Collaborated with cross-functional teams during internship to optimize workflows and deliver client specific solutions.)
+📄 I have completed my Internship as a **Web Developer.**<br> Developed backend architecture for a client-specific electronics and hardware e-commerce platform, ensuring secure data handling and scalable performance. <br>Developed and deployed a complete training and courses website with responsive UI/UX design, ensuring smooth navigation and optimized user experience across devices.<br> Enhanced SEO performance for the existing websites and Implemented client required changes efficiently, demonstrated adaptability and attention to detail in fast-paced development environment.<br>Collaborated with cross-functional teams during internship to optimize workflows and deliver client specific solutions.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
