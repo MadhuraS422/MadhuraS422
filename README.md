@@ -1,7 +1,8 @@
 <h1>Hi 👋,<br>Madhura Sanjay Shirsikar</h1>
-<h3>Exploring World of AI - Technology and Networking to find automated solutions to different read-world Problems. <br> [Searching for projects in automation in collaboration or individual project.]</h3>
+<h3>Exploring World of AI - Technology and Networking to find automated solutions to different read-world Problems. <br></h3>
+<h4>Searching for projects in automation in collaboration or individual project.</h4>
 
-🔭 I’m currently working on <br> **Litlibrary - Created comprehensive bookselling enabling users to browse, order, read online and download books. Developed full-stack architecture with React frontend and Node.js backend and integrated MongoDB for efficient data management. Demonstrated end -to-end product development and workflow automation.**
+🔭 I’m currently working on <br><ul> <li>**Litlibrary - Creating comprehensive bookselling enabling users to browse, order, read online and download books.**</li><li> **Developing full-stack architecture with React frontend and Node.js backend and integrated MongoDB for efficient data management.**</li><li> **Demonstrating end -to-end product development and workflow automation.**</li></ul>
 
 🌱 I’m currently learning **JavaScript modules and frameworks to master**
 
