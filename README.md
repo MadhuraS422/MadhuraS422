@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Madhura Sanjay Shirsikar</h1>
-<h3 align="center">Exploring World of AI - Technology and Networking to find automated solutions to different read-world Problems. \n [Searching for projects in automation in collaboration or individual project.]</h3>
+<h1>Hi 👋,<br> I'm Madhura Sanjay Shirsikar</h1><hr>
+<h3>Exploring World of AI - Technology and Networking to find automated solutions to different read-world Problems. <br> [Searching for projects in automation in collaboration or individual project.]</h3>
 
 - 🔭 I’m currently working on **Litlibrary - Created comprehensive bookselling enabling users to browse, order, read online and download books. Developed full-stack architecture with React frontend and Node.js backend and integrated MongoDB for efficient data management. Demonstrated end -to-end product development and workflow automation.**
 
