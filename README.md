@@ -3,7 +3,7 @@
 <h4>[Searching for projects in automation in collaboration or individual project.]</h4>
 <br>
 <div align="center">
-  <img height="150" src="https://github.com/MadhuraS422/MadhuraS422/blob/a0f8a1768f1f601f71252601b2d0077e9d620de8/191985e3-14d8-4380-a928-eeffb21111bc.jpg"  />
+  <img height="450" width="450" src="https://github.com/MadhuraS422/MadhuraS422/blob/a0f8a1768f1f601f71252601b2d0077e9d620de8/191985e3-14d8-4380-a928-eeffb21111bc.jpg"  />
 </div>
 <br><br>
 🔭 I’m currently working on <b>Litlibrary -</b><br><ul> <li> <b>Creating comprehensive bookselling enabling users to browse, order, read online and download books.</b></li><li> <b>Developing full-stack architecture with React frontend and Node.js backend and integrated MongoDB for efficient data management.</b></li><li> <b>Demonstrating end -to-end product development and workflow automation.</b></li></ul>
