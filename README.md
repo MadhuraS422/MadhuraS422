@@ -2,9 +2,9 @@
 <h3>Exploring World of AI - Technology and Networking to find automated solutions to different read-world Problems. <br></h3>
 <h4>[Searching for projects in automation in collaboration or individual project.]</h4>
 <br>
-! https://github.com/MadhuraS422/MadhuraS422/blob/c0c7bab955d151e7d78d8b735759a94a81670ac8/github%20readme%20image.jpg
+!https://github.com/MadhuraS422/MadhuraS422/blob/c0c7bab955d151e7d78d8b735759a94a81670ac8/github%20readme%20image.jpg
 <br><br>
-🔭 I’m currently working on **Litlibrary -**<br><ul> <li> **Creating comprehensive bookselling enabling users to browse, order, read online and download books.**</li><li> **Developing full-stack architecture with React frontend and Node.js backend and integrated MongoDB for efficient data management.**</li><li> **Demonstrating end -to-end product development and workflow automation.**</li></ul>
+🔭 I’m currently working on <b>Litlibrary -</b><br><ul> <li> <b>Creating comprehensive bookselling enabling users to browse, order, read online and download books.</b></li><li> <b>Developing full-stack architecture with React frontend and Node.js backend and integrated MongoDB for efficient data management.</b></li><li> <b>Demonstrating end -to-end product development and workflow automation.</b></li></ul>
 <br><br>
 🌱 I’m currently learning **JavaScript modules and frameworks to master**
 <br><br>
