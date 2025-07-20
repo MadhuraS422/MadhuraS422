@@ -6,11 +6,11 @@
 <br><br>
 🔭 I’m currently working on <b>Litlibrary -</b><br><ul> <li> <b>Creating comprehensive bookselling enabling users to browse, order, read online and download books.</b></li><li> <b>Developing full-stack architecture with React frontend and Node.js backend and integrated MongoDB for efficient data management.</b></li><li> <b>Demonstrating end -to-end product development and workflow automation.</b></li></ul>
 <br><br>
-🌱 I’m currently learning **JavaScript modules and frameworks to master**
+🌱 I’m currently learning <b>JavaScript modules and frameworks to master</b>
 <br><br>
-👯 I’m looking to collaborate on, <br><ul> <li>**Real-world Problems Projects**</li><li>** Open-Source Collaborations** </li><li>**5G Technology Projects.**</li></ul>
+👯 I’m looking to collaborate on, <br><ul> <li><b>Real-world Problems Projects</b></li><li><b> Open-Source Collaborations</b> </li><li><b>5G Technology Projects.</b></li></ul>
 <br><br>
-✔️ I have completed my Internship as a **Web Developer.**<br>
+✔️ I have completed my Internship as a <b>Web Developer.</b><br>
 <ul> <li> Developed backend architecture for a client-specific electronics and hardware e-commerce platform, ensuring secure data handling and scalable performance.</li> <br>
 <li>Developed and deployed a complete training and courses website with responsive UI/UX design, ensuring smooth navigation and optimized user experience across devices.</li><br>
 <li>Enhanced SEO performance for the existing websites and Implemented client required changes efficiently, demonstrated adaptability and attention to detail in fast-paced development environment.</li><br>
